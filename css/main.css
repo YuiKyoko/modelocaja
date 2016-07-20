@@ -1,0 +1,15 @@
+
+
+p{
+	text-align:center;
+	background: #F5F6CE;
+	margin: 5px 5px;
+	padding: 10px;
+	border-style: dashed;
+}
+div{ 
+	margin:50px 50px 50px 50px;
+	background: #F5A9BC;
+	padding: 20px 5px 50px 70px;
+	border: solid #610B5E 1.2em;
+}	
